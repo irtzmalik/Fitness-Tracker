@@ -2,7 +2,7 @@
 This is a fitness tracker app it is used to track your fitness like no sets, km run, sets done, type of excercise etc.
 
 ## Installation
-Git clone the repo on your local computer and run server.js in Git bash shell.
+Git clone the repo on your local computer and run server.js in Git bash shell. or use this link https://fitness---tracker.herokuapp.com/?id=5e702cce08063200177da8d1
 
 
 ## Usage 
